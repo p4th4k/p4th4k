@@ -20,6 +20,8 @@ P4TH4K@github:~$ ./welcome.sh
 - 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/pathak.ji_007/)
 - 😄 Pronouns: He/Him
 
+  <a href = "https://www.frontendmentor.io/profile/C4TT0" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-black?style=for-the-badge&logo=frontendmentor&logoColor=aqua" alt="FrontEnd Mentor Badge">
+
   ## <img src="https://media1.giphy.com/media/jNNUsQaAx0myWAXw1h/giphy.gif?cid=ecf05e47wtqycw9n2f7gp5kg2qqi9lqzukd9f32f583q1nhs&rid=giphy.gif" width="50"> Technologies & Tools
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
