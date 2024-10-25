@@ -17,7 +17,8 @@ P4TH4K@github:~$ ./welcome.sh
 
 ## I'm a Full Stack Web Developer <img width="50px" height="50px" src="https://camo.githubusercontent.com/a4aba565cfbf7bddca52637fdcfc80a644db2c0638e3addbaf70dc3375e08185/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966">
 - 🌱 I am currently learning more about Full stack web development.
-- 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/pathak.ji_007/)
+- [Portfolio](https://c4tt0.github.io/Portfolio/)
+- 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/emperor.pathak/)
 - 😄 Pronouns: He/Him
 
   <a href = "https://www.frontendmentor.io/profile/C4TT0" target="_blank"><img src="https://img.shields.io/badge/Frontend_Mentor-black?style=for-the-badge&logo=frontendmentor&logoColor=aqua" alt="FrontEnd Mentor Badge">
